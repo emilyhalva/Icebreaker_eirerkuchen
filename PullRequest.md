@@ -1,5 +1,5 @@
  * [Kyle's Pull Request](https://github.com/careyes8/apple_strudel_icebreaker/pull/2)
- * Emily's Pull Request: 
+ * [Emily's Pull Request]() 
  * [Michael's Pull Request](https://github.com/careyes8/apple_strudel_icebreaker/pull/1)
- * [Matt's Pull Request](https://github.com/emilyhalva/Icebreaker_eirerkuchen/pull/3)
- * Jame's Pull Request:
+ * [Matt's Pull Request](https://github.com/careyes8/apple_strudel_icebreaker/pull/3)
+ * [James's Pull Request](https://github.com/careyes8/apple_strudel_icebreaker/pull/4)
